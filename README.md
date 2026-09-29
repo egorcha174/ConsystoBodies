@@ -48,7 +48,7 @@ Uninstall: Windows Settings → Apps → Consysto Assembly from Bodies.
 
 Tested on Inventor 2027. Inventor 2025 and 2026 are supported by the same build but have not been checked yet — if something goes wrong, please open an issue.
 
-Free for personal and commercial use, provided as is, without warranty. The source code is not published.
+Free for personal and commercial use, provided as is, without warranty. The source code is not published. See the [Privacy Notice](PRIVACY.md).
 
 Author: Egor Chayka, design engineer. Telegram channel: [@print3d_lasercut](https://t.me/print3d_lasercut), questions: [@egor_chayka](https://t.me/egor_chayka).
 
@@ -74,6 +74,6 @@ Author: Egor Chayka, design engineer. Telegram channel: [@print3d_lasercut](http
 
 **Важно:** повторная сборка пересоздаёт файлы деталей в выбранной папке. Правки делайте в мастер-детали.
 
-Проверено на Inventor 2027; 2025 и 2026 поддерживаются той же сборкой, но ещё не проверены. Бесплатно для личного и коммерческого использования, без гарантий. Исходный код не публикуется.
+Проверено на Inventor 2027; 2025 и 2026 поддерживаются той же сборкой, но ещё не проверены. Бесплатно для личного и коммерческого использования, без гарантий. Исходный код не публикуется. [Политика конфиденциальности](PRIVACY.md) опубликована на английском языке.
 
 Автор: Егор Чайка, инженер-конструктор. Канал [@print3d_lasercut](https://t.me/print3d_lasercut), вопросы — [@egor_chayka](https://t.me/egor_chayka).
