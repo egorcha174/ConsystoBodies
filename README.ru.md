@@ -105,5 +105,5 @@ Get-FileHash .\ConsystoBodies-1.0.2-setup.exe -Algorithm SHA256
 а не только нарисовать.
 
 Ошибки, вопросы и предложения: [issue на GitHub](https://github.com/egorcha174/ConsystoBodies/issues)
-или egor.chayka@gmail.com. Канал о конструировании и производстве:
+или consysto@gmail.com. Канал о конструировании и производстве:
 [@print3d_lasercut](https://t.me/print3d_lasercut).

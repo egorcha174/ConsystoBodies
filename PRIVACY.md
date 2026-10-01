@@ -4,7 +4,7 @@
 
 **Publisher:** Egor Chayka / Consysto
 
-**Contact:** egor.chayka@gmail.com
+**Contact:** consysto@gmail.com
 
 ## Processing on your computer
 
@@ -18,7 +18,7 @@ The installer stores the selected interface language and installation informatio
 
 If you contact the publisher by email, Telegram or GitHub, the publisher receives the contact details, messages and files you choose to provide. They are used to respond to your request and investigate the issue. Do not send confidential CAD documents or third-party personal information without permission. Public GitHub issues are visible to other visitors.
 
-Support communications and privately supplied diagnostic materials are kept only as long as needed to handle the request and for no longer than 24 months after the last interaction, unless a longer period is required to resolve a security issue or comply with law. Contact egor.chayka@gmail.com to request deletion of support materials held by the publisher. Deletion from third-party platforms and their backups is subject to those platforms' processes.
+Support communications and privately supplied diagnostic materials are kept only as long as needed to handle the request and for no longer than 24 months after the last interaction, unless a longer period is required to resolve a security issue or comply with law. Contact consysto@gmail.com to request deletion of support materials held by the publisher. Deletion from third-party platforms and their backups is subject to those platforms' processes.
 
 ## Third-party services
 

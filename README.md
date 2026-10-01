@@ -106,5 +106,5 @@ Egor Chayka, design engineer — twenty years of making things that have to be m
 just modelled.
 
 Bugs, questions and suggestions: [open an issue](https://github.com/egorcha174/ConsystoBodies/issues)
-or write to egor.chayka@gmail.com. Telegram channel about design and manufacturing (in Russian):
+or write to consysto@gmail.com. Telegram channel about design and manufacturing (in Russian):
 [@print3d_lasercut](https://t.me/print3d_lasercut).
