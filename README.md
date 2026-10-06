@@ -108,3 +108,6 @@ just modelled.
 Bugs, questions and suggestions: [open an issue](https://github.com/egorcha174/ConsystoBodies/issues)
 or write to consysto@gmail.com. Telegram channel about design and manufacturing (in Russian):
 [@print3d_lasercut](https://t.me/print3d_lasercut).
+
+If this add-in saves you time, you can support further work through
+[LAVA.top](https://app.lava.top/egorcha?donate=open) — cards issued outside Russia are accepted.
