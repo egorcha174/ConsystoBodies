@@ -107,3 +107,6 @@ Get-FileHash .\ConsystoBodies-1.0.2-setup.exe -Algorithm SHA256
 Ошибки, вопросы и предложения: [issue на GitHub](https://github.com/egorcha174/ConsystoBodies/issues)
 или consysto@gmail.com. Канал о конструировании и производстве:
 [@print3d_lasercut](https://t.me/print3d_lasercut).
+
+Если дополнение сэкономило вам время, поддержать дальнейшую работу можно через
+[LAVA.top](https://app.lava.top/egorcha?donate=open) — сервис принимает карты, выпущенные за пределами России.
