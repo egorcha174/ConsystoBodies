@@ -1,4 +1,21 @@
-# Consysto — Сборка из тел
+<p align="center">
+  <img src="docs/brand/bodies-hero.png" alt="Consysto «Сборка из тел» — многотельная деталь в сборку с развёртками одной кнопкой">
+</p>
+
+<p align="center">
+  <a href="https://github.com/egorcha174/ConsystoBodies/releases/latest"><img alt="Последний выпуск" src="https://img.shields.io/github/v/release/egorcha174/ConsystoBodies?style=flat-square&color=ff7a1a&label=%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA"></a>
+  <a href="https://github.com/egorcha174/ConsystoBodies/releases"><img alt="Скачивания" src="https://img.shields.io/github/downloads/egorcha174/ConsystoBodies/total?style=flat-square&color=2b2f36&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9"></a>
+  <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk%20Inventor-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-2b2f36?style=flat-square">
+  <img alt="Бесплатно" src="https://img.shields.io/badge/%D1%86%D0%B5%D0%BD%D0%B0-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-2b2f36?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/egorcha174/ConsystoBodies/releases/latest"><img alt="Скачать" src="https://img.shields.io/badge/%E2%AC%87%20%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%2C%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D1%80%D0%B0%D0%B2%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-ff7a1a?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img src="docs/brand/bodies-oneclick.gif" width="800" alt="Запуск команды: каждое тело мастер-детали становится отдельной деталью новой сборки">
+</p>
 
 **Одной кнопкой превращает многотельную мастер-деталь в сборку отдельных деталей: каждое тело
 становится своим файлом — листовым или обычным — и встаёт в сборку ровно туда, где оно было.**

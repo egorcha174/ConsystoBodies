@@ -1,4 +1,22 @@
-# Consysto — Assembly from Bodies
+<p align="center">
+  <img src="docs/brand/bodies-hero.png" alt="Consysto Assembly from Bodies — one click: multi-body part to assembly with flat patterns">
+</p>
+
+<p align="center">
+  <a href="https://github.com/egorcha174/ConsystoBodies/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/egorcha174/ConsystoBodies?style=flat-square&color=ff7a1a&label=release"></a>
+  <a href="https://github.com/egorcha174/ConsystoBodies/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/egorcha174/ConsystoBodies/total?style=flat-square&color=2b2f36"></a>
+  <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk%20Inventor-add--in-2b2f36?style=flat-square">
+  <img alt="Free" src="https://img.shields.io/badge/price-free-2b2f36?style=flat-square">
+  <img alt="EN / RU" src="https://img.shields.io/badge/UI-EN%20%7C%20RU-2b2f36?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/egorcha174/ConsystoBodies/releases/latest"><img alt="Download the add-in" src="https://img.shields.io/badge/%E2%AC%87%20Download-installer%2C%20no%20admin%20rights-ff7a1a?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img src="docs/brand/bodies-oneclick.gif" width="800" alt="Running the command: every body of the master part becomes a separate part in a new assembly">
+</p>
 
 **One click turns a multi-body master part into an assembly of separate parts: every body
 becomes its own file, sheet metal or standard, placed exactly where the body was.**
