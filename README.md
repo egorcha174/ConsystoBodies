@@ -49,6 +49,17 @@ hour of identical clicks and a chance to make a mistake in each one.
   pattern and combine chains rather than guessing from the master's type.
 - If a type cannot be determined safely, it asks instead of guessing. Clicking a body name in
   the dialog highlights that body in the graphics window.
+- Identical bodies become one part. Ten identical brackets give one part file placed ten times,
+  each copy in its own position. Mirror-image bodies are kept as separate parts. Turn it off with
+  **Identical bodies as one part**.
+- Bodies can be grouped into subassemblies. In the **Bodies and subassemblies** window you pick
+  bodies in the table, in the graphics window or in the Solid Bodies folder of the browser, and
+  assign them a subassembly name. Each subassembly is highlighted in its own colour while the
+  window stays open and the model can still be rotated. Bodies you do not need can be excluded
+  from the assembly. The choice is stored in the master part.
+- Repeated units are recognised. If a subassembly holds several identical clusters of bodies, a
+  table leg made of a tube, a rod and a nut repeated four times, for example, the leg is built
+  once from three parts and placed four times.
 - Assembly parameters are linked to the master part, and iProperties are carried over.
 - If the master has several model states — a left and a right hand, for example — a separate
   assembly is built for each checked state, with its parts in a subfolder named after it.
@@ -93,7 +104,7 @@ add-in does not pay for. Every release lists the SHA-256 of its files so you can
 you downloaded is what was published:
 
 ```powershell
-Get-FileHash .\ConsystoBodies-1.0.2-setup.exe -Algorithm SHA256
+Get-FileHash .\ConsystoBodies-1.0.8-setup.exe -Algorithm SHA256
 ```
 
 Uninstall through Windows Settings → Apps → Consysto Assembly from Bodies. Your Inventor files
